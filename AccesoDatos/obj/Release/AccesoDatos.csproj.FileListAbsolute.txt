@@ -1,0 +1,10 @@
+C:\Proyectos\AccesoDatos\Release\ACCESODATOS.dll
+C:\Proyectos\AccesoDatos\Release\ACCESODATOS.pdb
+C:\Proyectos\AccesoDatos\obj\Release\ResolveAssemblyReference.cache
+C:\Proyectos\AccesoDatos\obj\Release\ACCESODATOS.dll
+C:\Proyectos\AccesoDatos\obj\Release\ACCESODATOS.pdb
+C:\PruebaAccesoDatos\AccesoDatos\Release\ACCESODATOS.dll
+C:\PruebaAccesoDatos\AccesoDatos\Release\ACCESODATOS.pdb
+C:\PruebaAccesoDatos\AccesoDatos\obj\Release\ResolveAssemblyReference.cache
+C:\PruebaAccesoDatos\AccesoDatos\obj\Release\ACCESODATOS.dll
+C:\PruebaAccesoDatos\AccesoDatos\obj\Release\ACCESODATOS.pdb

@@ -1,0 +1,8 @@
+C:\PruebaAccesoDatos\EjercicioPractico\bin\Debug\EjercicioPractico.exe
+C:\PruebaAccesoDatos\EjercicioPractico\bin\Debug\EjercicioPractico.pdb
+C:\PruebaAccesoDatos\EjercicioPractico\obj\Debug\ResolveAssemblyReference.cache
+C:\PruebaAccesoDatos\EjercicioPractico\obj\Debug\EjercicioPractico.frmABC.resources
+C:\PruebaAccesoDatos\EjercicioPractico\obj\Debug\EjercicioPractico.Properties.Resources.resources
+C:\PruebaAccesoDatos\EjercicioPractico\obj\Debug\EjercicioPractico.csproj.GenerateResource.Cache
+C:\PruebaAccesoDatos\EjercicioPractico\obj\Debug\EjercicioPractico.exe
+C:\PruebaAccesoDatos\EjercicioPractico\obj\Debug\EjercicioPractico.pdb
